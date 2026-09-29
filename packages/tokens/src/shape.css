@@ -1,0 +1,14 @@
+:root {
+
+  --shape-corner-none: 0px;
+  --shape-corner-extra-small: 4px;
+  --shape-corner-small: 8px;
+  --shape-corner-medium: 12px;
+  --shape-corner-large: 16px;
+  --shape-corner-large-increased: 20px;
+  --shape-corner-extra-large: 28px;
+  --shape-corner-extra-large-increased: 32px;
+  --shape-corner-extra-extra-large: 48px;
+  --shape-corner-full: 1000px;
+
+}

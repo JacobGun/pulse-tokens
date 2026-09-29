@@ -1,0 +1,109 @@
+:root {
+
+
+  --type-display-large-font: "Inter";
+  --type-display-large-weight: Regular;
+  --type-display-large-size: 57px;
+  --type-display-large-line-height: 64px;
+  --type-display-large-tracking: -0.25px;
+
+
+  --type-display-medium-font: "Inter";
+  --type-display-medium-weight: Regular;
+  --type-display-medium-size: 45px;
+  --type-display-medium-line-height: 52px;
+  --type-display-medium-tracking: 0px;
+
+
+  --type-display-small-font: "Inter";
+  --type-display-small-weight: Regular;
+  --type-display-small-size: 36px;
+  --type-display-small-line-height: 44px;
+  --type-display-small-tracking: 0px;
+
+
+  --type-headline-large-font: "Inter";
+  --type-headline-large-weight: Regular;
+  --type-headline-large-size: 32px;
+  --type-headline-large-line-height: 40px;
+  --type-headline-large-tracking: 0px;
+
+
+  --type-headline-medium-font: "Inter";
+  --type-headline-medium-weight: Regular;
+  --type-headline-medium-size: 28px;
+  --type-headline-medium-line-height: 36px;
+  --type-headline-medium-tracking: 0px;
+
+
+  --type-headline-small-font: "Inter";
+  --type-headline-small-weight: Regular;
+  --type-headline-small-size: 24px;
+  --type-headline-small-line-height: 32px;
+  --type-headline-small-tracking: 0px;
+
+
+  --type-title-large-font: "Inter";
+  --type-title-large-weight: Regular;
+  --type-title-large-size: 22px;
+  --type-title-large-line-height: 28px;
+  --type-title-large-tracking: 0px;
+
+
+  --type-title-medium-font: "Inter";
+  --type-title-medium-weight: Medium;
+  --type-title-medium-size: 16px;
+  --type-title-medium-line-height: 24px;
+  --type-title-medium-tracking: 0.15000000596046448px;
+
+
+  --type-title-small-font: "Inter";
+  --type-title-small-weight: Medium;
+  --type-title-small-size: 14px;
+  --type-title-small-line-height: 20px;
+  --type-title-small-tracking: 0.10000000149011612px;
+
+
+  --type-label-large-font: "Inter";
+  --type-label-large-weight: Medium;
+  --type-label-large-size: 14px;
+  --type-label-large-line-height: 20px;
+  --type-label-large-tracking: 0.10000000149011612px;
+
+
+  --type-label-medium-font: "Inter";
+  --type-label-medium-weight: Medium;
+  --type-label-medium-size: 12px;
+  --type-label-medium-line-height: 16px;
+  --type-label-medium-tracking: 0.5px;
+
+
+  --type-label-small-font: "Inter";
+  --type-label-small-weight: Medium;
+  --type-label-small-size: 11px;
+  --type-label-small-line-height: 16px;
+  --type-label-small-tracking: 0.5px;
+
+
+  --type-body-large-font: "Inter";
+  --type-body-large-weight: Regular;
+  --type-body-large-size: 16px;
+  --type-body-large-line-height: 24px;
+  --type-body-large-tracking: 0.5px;
+
+
+  --type-body-medium-font: "Inter";
+  --type-body-medium-weight: Regular;
+  --type-body-medium-size: 14px;
+  --type-body-medium-line-height: 20px;
+  --type-body-medium-tracking: 0.25px;
+
+
+  --type-body-small-font: "Inter";
+  --type-body-small-weight: Regular;
+  --type-body-small-size: 12px;
+  --type-body-small-line-height: 16px;
+  --type-body-small-tracking: 0.4000000059604645px;
+
+
+}
