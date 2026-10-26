@@ -1,3 +1,6 @@
+#npmrc for figma
+.npmrc
+
 # Logs
 logs
 *.log
